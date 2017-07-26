@@ -52,3 +52,6 @@ C:\Users\Pieter\Desktop\WFTanks-1\WFTanksMain\WFTanks\obj\Debug\WFTanks.csprojRe
 C:\Users\Pieter\Desktop\WFTanks-1\WFTanksMain\WFTanks\obj\Debug\WFTanks.Form1.resources
 C:\Users\Pieter\Desktop\WFTanks-1\WFTanksMain\WFTanks\obj\Debug\WFTanks.Properties.Resources.resources
 C:\Users\Pieter\Desktop\WFTanks-1\WFTanksMain\WFTanks\obj\Debug\WFTanks.csproj.GenerateResource.Cache
+C:\Users\It's me\Documents\GitHub\WFTanks\WFTanksMain\WFTanks\bin\Debug\WFTanks.exe.config
+C:\Users\It's me\Documents\GitHub\WFTanks\WFTanksMain\WFTanks\obj\Debug\WFTanks.exe
+C:\Users\It's me\Documents\GitHub\WFTanks\WFTanksMain\WFTanks\obj\Debug\WFTanks.pdb

@@ -31,6 +31,7 @@ namespace WFTanks
 
         public void SetFrom1(Form1 FormConstruct)
         {
+
             GetFormX = new DelegateGetFormX(FormConstruct.GetX);
             GetFormY = new DelegateGetFormY(FormConstruct.GetY);
             FormConstruct.Controls.Add(AllyTankDesign);
